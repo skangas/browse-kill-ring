@@ -18,11 +18,6 @@ folder `~/.emacs.d/vendor` is a popular choice:
 (require 'browse-kill-ring)
 ```
 
-### Marmalade
-
-If you're an Emacs 24 user or you have a recent version of package.el
-you can install browse-kill-ring from the [Marmalade](http://marmalade-repo.org/) repository.
-
 ### MELPA
 
 If you're an Emacs 24 user or you have a recent version of package.el
